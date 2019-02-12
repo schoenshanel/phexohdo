@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eushigai.malinsundberg.com/sitemap.xml
